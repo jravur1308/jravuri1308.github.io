@@ -53,7 +53,7 @@ projects:
   logo: /images/sections/projects/toha.png
   #role: Owner
   # timeline: "Jun 2019 - Present"
-  repo: https://github.com/jravur1308/portfolio-site
+  repo: https://github.com/jravur1308/portfolio.github.io
   summary: My personal portfolio website.
   tags: ["hobby","hugo","theme","professional"]
 
